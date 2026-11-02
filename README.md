@@ -12,7 +12,7 @@ Today's class is taught by Henrik Bengtsson.
 
 ## Tools
 
-- Rstudio
+- GitHub
 - __Git Bash__
 - [Positron](https://positron.posit.co/)
 
